@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/turtlebot_arm_object_manipulation_generate_messages_cpp"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandActionFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceActionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipAction.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandAction.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceActionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetActionFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceAction.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipActionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionAction.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetActionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceActionFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipActionFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetAction.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandActionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionActionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/MoveToTargetActionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionActionResult.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionActionFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/UserCommandActionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/InteractiveManipActionGoal.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/PickAndPlaceFeedback.h"
+  "/home/edison/turtle_ws1/devel/include/turtlebot_arm_object_manipulation/ObjectDetectionFeedback.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/turtlebot_arm_object_manipulation_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

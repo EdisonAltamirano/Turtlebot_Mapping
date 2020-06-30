@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/turtlebot_arm_object_manipulation_generate_messages_lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandActionFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceActionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipAction.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandAction.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceActionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetActionFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceAction.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipActionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionAction.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetActionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceActionFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipActionFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetAction.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandActionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionActionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/MoveToTargetActionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionActionResult.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionActionFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/UserCommandActionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/InteractiveManipActionGoal.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/PickAndPlaceFeedback.lisp"
+  "/home/edison/turtle_ws1/devel/share/common-lisp/ros/turtlebot_arm_object_manipulation/msg/ObjectDetectionFeedback.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/turtlebot_arm_object_manipulation_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

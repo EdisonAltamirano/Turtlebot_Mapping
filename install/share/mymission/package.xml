@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mymission</name>
+  <version>1.2.0</version>
+  <description>Mymission package including the main control node</description>
+
+  <maintainer email="A00825234@itesm.mx">Edison Altamirano</maintainer>
+
+  <license>Apache 2</license>
+
+  <author email="A00825234@itesm.mx">Edison Altamirano</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>roslib</depend>
+  
+  <build_depend>keyboard</build_depend>
+  
+  <exec_depend>keyboard</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+</package>

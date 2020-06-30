@@ -1,0 +1,8 @@
+prefix=/home/edison/turtle_ws1/install
+
+Name: pi_io
+Description: Description of pi_io
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
